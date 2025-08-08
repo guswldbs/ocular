@@ -1,7 +1,6 @@
-// button 하나 만들어서 login 화면으로 넘어가기 계정 로그인에 구글 계정만 추가
 import { Link } from 'react-router-dom';
 
-const Main = () => {
+const Editsign = () => {
   return (
     <>
       {' '}
@@ -15,4 +14,4 @@ const Main = () => {
   );
 };
 
-export default Main;
+export default Editsign;
